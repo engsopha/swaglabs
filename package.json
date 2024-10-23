@@ -1,0 +1,21 @@
+{
+  "name": "swaglabs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^13.15.0",
+    "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "touch": "^3.1.1"
+  }
+}
